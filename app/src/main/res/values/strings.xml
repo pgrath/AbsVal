@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AbsVal</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="edit_infile">Enter the name of the input file</string>
+    <string name="edit_outfile">Enter the name of the output file</string>
+    <string name="button_avs">Absolute Val &amp; Save</string>
+    <string name="text_main">Status.</string>
+</resources>
